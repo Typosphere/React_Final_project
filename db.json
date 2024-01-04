@@ -71,6 +71,22 @@
       "startTime": "2024-04-12T20:00",
       "endTime": "2024-04-12T21:00",
       "id": 6
+    },
+{
+      "createdBy": 2,
+      "title": "Zumba",
+      "description": "Let's have a good sweat together!",
+      "image": "https://joinfcf.com/wp-content/uploads/2017/08/Zumba.jpg.webp",
+      "categoryIds": [
+        1
+      ],
+      "attendedBy": [
+        2
+      ],
+      "location": "Anytime Fitness",
+      "startTime": "2024-04-12T20:00",
+      "endTime": "2024-04-12T21:00",
+      "id": 6
     }
     ],
     "categories": [
