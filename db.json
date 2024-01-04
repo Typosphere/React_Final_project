@@ -57,7 +57,7 @@
         "endTime": "2024-03-09T07:00:00.000Z"
       },
 {
-        "id": 5,
+        "id": 4,
         "createdBy": 2,
         "title": "Concerts",
         "description": "Turn the music up to hear that sound",
@@ -72,16 +72,14 @@
       "title": "Pencak Silat",
       "description": "Everybody was Kung Fu fighting",
       "image": "https://i0.wp.com/apakabar.news/wp-content/uploads/2020/10/Pencak-SIlat-2.jpg",
-      "categoryIds": [
-        1
-      ],
+      "categoryIds": [1],
       "attendedBy": [
         2
       ],
       "location": "Saudarah",
       "startTime": "2024-04-12T20:00",
       "endTime": "2024-04-12T21:00",
-      "id": 7
+      "id": 5
     },
 {
       "createdBy": 2,
@@ -97,7 +95,7 @@
       "location": "Anytime Fitness",
       "startTime": "2024-04-12T20:00",
       "endTime": "2024-04-12T21:00",
-      "id": 6
+      "id": 7
     }
     ],
     "categories": [
