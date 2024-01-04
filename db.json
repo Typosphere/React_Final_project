@@ -60,7 +60,7 @@
         "id": 6,
         "createdBy": 2,
         "title": "Concerts",
-        "description": "Turn the music up to hear that sound",
+        "description": "Turn the music up to hear that sound!",
         "image": "https://www.concertzender.nl/wp-content/uploads/2023/05/image001.jpg",
         "categoryIds": [3],
         "location": "AFAS",
