@@ -56,6 +56,17 @@
         "startTime": "2024-03-09T06:00:00.000Z",
         "endTime": "2024-03-09T07:00:00.000Z"
       },
+{
+        "id": 4,
+        "createdBy": 2,
+        "title": "Concerts",
+        "description": "Turn the music up to hear that sound",
+        "image": "https://www.concertzender.nl/wp-content/uploads/2023/05/image001.jpg",
+        "categoryIds": [3],
+        "location": "AFAS",
+        "startTime": "2024-03-09T06:00:00.000Z",
+        "endTime": "2024-03-09T07:00:00.000Z"
+      },
     {
       "createdBy": 2,
       "title": "Pencak Silat",
@@ -68,22 +79,6 @@
         2
       ],
       "location": "Saudarah",
-      "startTime": "2024-04-12T20:00",
-      "endTime": "2024-04-12T21:00",
-      "id": 6
-    },
-{
-      "createdBy": 2,
-      "title": "Concert",
-      "description": "Turn the music up to hear that sound",
-      "image": "https://www.concertzender.nl/wp-content/uploads/2023/05/image001.jpg",
-      "categoryIds": [
-        3
-      ],
-      "attendedBy": [
-        2
-      ],
-      "location": "AFAS",
       "startTime": "2024-04-12T20:00",
       "endTime": "2024-04-12T21:00",
       "id": 6
