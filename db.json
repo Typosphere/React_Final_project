@@ -58,9 +58,9 @@
       },
     {
       "createdBy": 2,
-      "title": "Zumba",
-      "description": "Let's have a good sweat together!",
-      "image": "https://joinfcf.com/wp-content/uploads/2017/08/Zumba.jpg.webp",
+      "title": "Pencak Silat",
+      "description": "Material Fight Art",
+      "image": "https://i0.wp.com/apakabar.news/wp-content/uploads/2020/10/Pencak-SIlat-2.jpg",
       "categoryIds": [
         1
       ],
@@ -83,7 +83,7 @@
       "attendedBy": [
         2
       ],
-      "location": "Anytime Fitness",
+      "location": "Saudarah",
       "startTime": "2024-04-12T20:00",
       "endTime": "2024-04-12T21:00",
       "id": 6
